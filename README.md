@@ -21,7 +21,7 @@ Feel free to connect!
 • Lead code review meetings; provided and received feedback on new code implementations<br>
 • Managed the app configuration with Expo<br>
 • Coded a secure login authentication system using Firebase  
-  ![Language](https://img.shields.io/badge/language-JavaScript-orange)
+  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 - [Concert Connect](https://github.com/LukeMatheson/ConcertConnect)<br>
   Role: Web Developer<br>
 • Coded the router and API endpoint in React.js to utilize data from Ticketmaster<br>
@@ -30,6 +30,10 @@ Feel free to connect!
 • Oversaw our kanban board to assign and keep track of tasks<br> 
   ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 - [CryptoHub](https://github.com/wkaiser21/CryptoHub)<br>
-  Another description, focusing on features and achievements.  
+  Role: Web Developer<br>
+• Developed system for collecting and storing user information with JavaScript and SQL<br>
+• Designed and implemented UI with HTML, CSS, and JavaScript<br>
+• Programmed backend API endpoints to pull data<br>
+• Managed Trello board to maintain agile development<br>
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 

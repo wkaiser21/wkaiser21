@@ -10,3 +10,8 @@ Feel free to connect!
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-kaiser/)
 
+### Pinned Projects
+- [**Project Name**](link-to-project)  
+  Description of your project, what it does, and technologies used.  
+  ![Language](https://img.shields.io/badge/language-JavaScript-blue)
+

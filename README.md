@@ -12,14 +12,13 @@ Feel free to connect!
 
 <br>
 
+---
+
 ### Pinned Projects
-- [**Card Collect & Grade**]([link-to-project](https://github.com/NizomDjuraev/CardScanAndGrade))  
-  Description of your project, what it does, and technologies used.
-  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-- [**Concert Connect**]([link-to-project](https://github.com/LukeMatheson/ConcertConnect))  
+- [**Project Name**](link-to-project)  
   Description of your project, what it does, and technologies used.  
-  ![Language](https://img.shields.io/badge/language-TypeScript-blue)
-- [**CryptoHub**]([link-to-project]([https://github.com/LukeMatheson/ConcertConnect](https://github.com/wkaiser21/CryptoHub)))  
-  Description of your project, what it does, and technologies used.  
-  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
+  ![Language](https://img.shields.io/badge/language-JavaScript-blue)
+- [**Another Project**](link-to-project)  
+  Another description, focusing on features and achievements.  
+  ![Language](https://img.shields.io/badge/language-Python-yellow)
 

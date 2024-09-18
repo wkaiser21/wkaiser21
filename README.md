@@ -16,7 +16,11 @@ Feel free to connect!
 
 ### Pinned Projects
 - [Card Collect & Grade](https://github.com/NizomDjuraev/CardScanAndGrade)<br>
-  Description of your project, what it does, and technologies used.  
+  Role: Mobile App Developer
+• Designed multiple screens of the app in Figma then developed them in React Native
+• Lead code review meetings; provided and received feedback on new code implementations
+• Managed the app configuration with Expo
+• Coded a secure login authentication system using Firebase  
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 - [Concert Connect](https://github.com/LukeMatheson/ConcertConnect)<br>
   Another description, focusing on features and achievements.  

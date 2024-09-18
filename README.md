@@ -21,7 +21,7 @@ Feel free to connect!
 • Lead code review meetings; provided and received feedback on new code implementations<br>
 • Managed the app configuration with Expo<br>
 • Coded a secure login authentication system using Firebase  
-  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
+  ![Language](https://img.shields.io/badge/language-JavaScript-orange)
 - [Concert Connect](https://github.com/LukeMatheson/ConcertConnect)<br>
   Role: Web Developer<br>
 • Coded the router and API endpoint in React.js to utilize data from Ticketmaster<br>

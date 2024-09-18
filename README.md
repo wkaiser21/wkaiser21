@@ -15,7 +15,7 @@ Feel free to connect!
 ---
 
 ### Pinned Projects
-- [**Project Name**](link-to-project)  
+- [Card Collect & Grade](link-to-project)  
   Description of your project, what it does, and technologies used.  
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 - [**Another Project**](link-to-project)  

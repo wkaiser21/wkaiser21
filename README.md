@@ -14,4 +14,7 @@ Feel free to connect!
 - [**Project Name**](link-to-project)  
   Description of your project, what it does, and technologies used.  
   ![Language](https://img.shields.io/badge/language-JavaScript-blue)
+- [**Another Project**](link-to-project)  
+  Another description, focusing on features and achievements.  
+  ![Language](https://img.shields.io/badge/language-Python-yellow)
 

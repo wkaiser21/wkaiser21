@@ -22,14 +22,14 @@ Feel free to connect!
 • Managed the app configuration with Expo<br>
 • Coded a secure login authentication system using Firebase  
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-- [Concert Connect](https://github.com/LukeMatheson/ConcertConnect) - An all-in-one concert booking website; select your artist, buy tickets, and book a hotel. Built with React.js<br>
+- [Concert Connect](https://github.com/LukeMatheson/ConcertConnect) - An all-in-one concert booking website; pick an artist, buy tickets, and book a hotel. Built with React.js<br>
   Role: Web Developer<br>
 • Coded the router and API endpoint in React.js to utilize data from Ticketmaster<br>
 • Designed and implemented the visuals with Figma and HTML/CSS<br>
 • Assisted with the creation and management of the PostgreSQL database<br>
 • Oversaw our kanban board to assign and keep track of tasks<br> 
   ![Language](https://img.shields.io/badge/language-TypeScript-blue)
-- [CryptoHub](https://github.com/wkaiser21/CryptoHub)<br>
+- [CryptoHub](https://github.com/wkaiser21/CryptoHub) - A crypto management simulator website; buy/sell crypto currencies and track growth with numerical and graphical figures.<br>
   Role: Web Developer<br>
 • Developed system for collecting and storing user information with JavaScript and SQL<br>
 • Designed and implemented UI with HTML, CSS, and JavaScript<br>

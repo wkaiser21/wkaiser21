@@ -15,7 +15,7 @@ Feel free to connect!
 ---
 
 ### Pinned Projects
-- [Card Collect & Grade](https://github.com/NizomDjuraev/CardScanAndGrade)<br>
+- [Card Collect & Grade](https://github.com/NizomDjuraev/CardScanAndGrade) - A mobile app for sports card collecting and auto-grading feature. Built with React Native.<br>
   Role: Mobile App Developer<br>
 • Designed multiple screens of the app in Figma then developed them in React Native<br>
 • Lead code review meetings; provided and received feedback on new code implementations<br>

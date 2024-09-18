@@ -22,7 +22,7 @@ Feel free to connect!
 • Managed the app configuration with Expo<br>
 • Coded a secure login authentication system using Firebase  
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-- [Concert Connect](https://github.com/LukeMatheson/ConcertConnect)<br>
+- [Concert Connect](https://github.com/LukeMatheson/ConcertConnect) - An all-in-one concert booking website; select your artist, buy tickets, and book a hotel. Built with React.js<br>
   Role: Web Developer<br>
 • Coded the router and API endpoint in React.js to utilize data from Ticketmaster<br>
 • Designed and implemented the visuals with Figma and HTML/CSS<br>

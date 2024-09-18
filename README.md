@@ -21,7 +21,7 @@ Feel free to connect!
 - [Concert Connect](https://github.com/LukeMatheson/ConcertConnect)<br>
   Another description, focusing on features and achievements.  
   ![Language](https://img.shields.io/badge/language-TypeScript-blue)
-- [CryptoHub](https://github.com/wkaiser21/CryptoHub)<br>  
+- [CryptoHub](https://github.com/wkaiser21/CryptoHub) 
   Another description, focusing on features and achievements.  
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 

@@ -27,7 +27,7 @@ Feel free to connect!
 • Coded the router and API endpoint in React.js to utilize data from Ticketmaster<br>
 • Designed and implemented the visuals with Figma and HTML/CSS<br>
 • Assisted with the creation and management of the PostgreSQL database<br>
-• Oversaw our kanban board to assign and keep track of tasks 
+• Oversaw our kanban board to assign and keep track of tasks<br> 
   ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 - [CryptoHub](https://github.com/wkaiser21/CryptoHub)<br>
   Another description, focusing on features and achievements.  

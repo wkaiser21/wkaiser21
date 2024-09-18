@@ -17,8 +17,11 @@ Feel free to connect!
 ### Pinned Projects
 - [**Project Name**](link-to-project)  
   Description of your project, what it does, and technologies used.  
-  ![Language](https://img.shields.io/badge/language-JavaScript-blue)
+  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 - [**Another Project**](link-to-project)  
   Another description, focusing on features and achievements.  
-  ![Language](https://img.shields.io/badge/language-Python-yellow)
+  ![Language](https://img.shields.io/badge/language-TypeScript-blue)
+- [**Another Project**](link-to-project)  
+  Another description, focusing on features and achievements.  
+  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 

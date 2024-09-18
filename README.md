@@ -6,4 +6,6 @@ I've worked professionally as a web developer for a co-op at Drexel University C
 
 I'm also passionate about ideas of human-centered design and good user experiences.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wyatt-kaiser/) ![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
+Feel free to connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-kaiser/)
+

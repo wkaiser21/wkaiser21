@@ -23,7 +23,11 @@ Feel free to connect!
 • Coded a secure login authentication system using Firebase  
   ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 - [Concert Connect](https://github.com/LukeMatheson/ConcertConnect)<br>
-  Another description, focusing on features and achievements.  
+  Role: Web Developer<br>
+• Coded the router and API endpoint in React.js to utilize data from Ticketmaster<br>
+• Designed and implemented the visuals with Figma and HTML/CSS<br>
+• Assisted with the creation and management of the PostgreSQL database<br>
+• Oversaw our kanban board to assign and keep track of tasks 
   ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 - [CryptoHub](https://github.com/wkaiser21/CryptoHub)<br>
   Another description, focusing on features and achievements.  

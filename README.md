@@ -7,14 +7,3 @@ I've worked professionally as a web developer for a co-op at Drexel University C
 Feel free to connect!
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-kaiser/)
-
-
----
-
-### Pinned Projects
-- #### [Card Collect & Grade](https://github.com/NizomDjuraev/CardScanAndGrade) - A mobile app for sports card collecting and auto-grading feature. Built with React Native.<br>
-  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-- #### [Concert Connect](https://github.com/LukeMatheson/ConcertConnect) - An all-in-one concert booking website; pick an artist, buy tickets, and book a hotel. Built with React.js<br>
-  ![Language](https://img.shields.io/badge/language-TypeScript-blue)
-- #### [CryptoHub](https://github.com/wkaiser21/CryptoHub) - A crypto management simulator website; buy/sell crypto currencies and track your growth over time.<br>
-  ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
